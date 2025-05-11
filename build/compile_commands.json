@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/asad/cpp/http-server/build",
+  "command": "/usr/bin/g++ -DASIO_STANDALONE -I/home/asad/cpp/http-server/include -g -o CMakeFiles/http-server.dir/src/main.cpp.o -c /home/asad/cpp/http-server/src/main.cpp",
+  "file": "/home/asad/cpp/http-server/src/main.cpp",
+  "output": "CMakeFiles/http-server.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/asad/cpp/http-server/build",
+  "command": "/usr/bin/g++ -DASIO_STANDALONE -I/home/asad/cpp/http-server/include -g -o CMakeFiles/http-server.dir/src/server.cpp.o -c /home/asad/cpp/http-server/src/server.cpp",
+  "file": "/home/asad/cpp/http-server/src/server.cpp",
+  "output": "CMakeFiles/http-server.dir/src/server.cpp.o"
+},
+{
+  "directory": "/home/asad/cpp/http-server/build",
+  "command": "/usr/bin/g++ -DASIO_STANDALONE -I/home/asad/cpp/http-server/include -g -o CMakeFiles/http-server.dir/src/handlers/users.cpp.o -c /home/asad/cpp/http-server/src/handlers/users.cpp",
+  "file": "/home/asad/cpp/http-server/src/handlers/users.cpp",
+  "output": "CMakeFiles/http-server.dir/src/handlers/users.cpp.o"
+},
+{
+  "directory": "/home/asad/cpp/http-server/build",
+  "command": "/usr/bin/g++ -DASIO_STANDALONE -I/home/asad/cpp/http-server/include -g -o CMakeFiles/http-server.dir/src/handlers/base.cpp.o -c /home/asad/cpp/http-server/src/handlers/base.cpp",
+  "file": "/home/asad/cpp/http-server/src/handlers/base.cpp",
+  "output": "CMakeFiles/http-server.dir/src/handlers/base.cpp.o"
+}
+]
